@@ -1,0 +1,2 @@
+v1.0:
+	add lights overview and use patch service from SetupHelpers to patch main.qml
